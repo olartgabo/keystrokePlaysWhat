@@ -23,7 +23,7 @@ Este proyecto es una herramienta para los mainWW que deseen añadir un poco de e
     pip install keyboard pygame
     ```
 
-4.  Si usas **Windows**, necesitarás **NirCmd**. Búscalo, descárgalo y asegúrate de que esté en tu **PATH** para que el programa pueda ajustar el volumen. Si usas **Linux** o **macOS**, no necesitas instalar nada extra, ¡el código lo maneja solo\!
+4.  Si usas **Windows**, necesitarás [NirCMD](https://www.nirsoft.net/utils/nircmd.html). Descárgalo y ejecuta el exe como admmin para asegurarte que esté en tu **PATH**,  esto para que el programa pueda ajustar el volumen. Si usas **Linux** o **macOS**, no necesitas instalar nada extra, ¡el código lo maneja solo\!
 
 <br>
 
